@@ -46,8 +46,8 @@ This project was a **club-wide collaboration**. Contributors worked on everythin
 
 | Name | Role / Contribution |
 |------|---------------------|
-| `Deepak P S` | Tech Lead / Architecture & Development |
-| `Bhanu Kiran R` | Operational Lead / Integration & Development |
+| [Deepak P S](https://github.com/DeepakKrishna-DK)| Tech Lead / Architecture & Development |
+| [Bhanu Kiran R](https://github.com/Bhanucreator)| Operational Lead / Integration & Development |
 
 > 💡 **Want your name here?** Submit a PR and contribute to the project!
 
