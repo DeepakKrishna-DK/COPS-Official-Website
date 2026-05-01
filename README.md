@@ -2,7 +2,7 @@
 # CLUB OF PROGRAMMERS (COPS) - Official Website
 
 <p align="center">
-  <img src="main/copslogo.png" alt="COPS Logo" width="200"/>
+  <img src="copslogo.png" alt="COPS Logo" width="200"/>
 </p>
 
 Welcome to the official website repository for **CLUB OF PROGRAMMERS (COPS)** at C Byregowda Institute of Technology! 🚀
